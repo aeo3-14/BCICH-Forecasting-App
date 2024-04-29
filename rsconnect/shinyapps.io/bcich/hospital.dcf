@@ -1,0 +1,12 @@
+name: hospital
+title: hospital
+username: bcich
+account: bcich
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11575293
+bundleId: 8411591
+url: https://bcich.shinyapps.io/hospital/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
