@@ -7,10 +7,10 @@ The Forecast tab provides the functionality to forecast, the user will select th
 
 
 ![image](https://github.com/aeo3-14/BCICH-Forecasting-App/assets/119051857/7d61337f-1bee-441d-9705-7b4abdd50afa)
-The dataset tab is where the user can have a look at the dataset. Users can download the dataset using the download dataset button, add new values using the add new value button or update the whole dataset using the update file.
+The dataset tab is where the user can have a look at the dataset. Users can download the dataset using the download dataset button, add new values using the Add New Value button, or update the whole dataset using the Upload New file button.
 
 ![image](https://github.com/aeo3-14/BCICH-Forecasting-App/assets/119051857/a450bd55-422a-480c-aa30-47cb654da805)
 
-The test tab provides the environment for testing the generated model performance for forecasting medical patient admission volume and obstetrics patient admission volume. The user will select the type of patient and select the values for training and testing. The test will give error measures namely;ME, RMSE, MAPE, MPE and MAE. 
+The test tab provides the environment for testing the generated model performance for forecasting medical patient admission volume and obstetrics patient admission volume. The user will select the type of patient and select the values for training and testing. The test will give error measures namely; ME, RMSE, MAPE, MPE, and MAE. 
 
 
